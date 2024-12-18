@@ -51,8 +51,14 @@ Welcome to the **Open-Ended Lab (OEL)** project repository for Computer Engineer
      - **Solution**: Summarize your approach and implementation.
 
 3. **Example Folder Structure**:
+   Contains all source code files (e.g., `.cpp`, `.h`).
+   `documentation/`
+   Includes key project documentation, such as:
+   - **proposal.pdf**: Project proposal
+   - **slides.pptx**: Presentation slides
+   - **readme.md**: This file
 
-4. **Naming Conventions**:
+5. **Naming Conventions**:
 - Keep file and folder names descriptive and professional.
 - Avoid spaces; use underscores (`_`) or hyphens (`-`) instead.
 
